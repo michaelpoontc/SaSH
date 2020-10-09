@@ -18,4 +18,4 @@ You should also create a folder / directory on your computer to store the files 
 All data provided above are synthetic data based on the SaSH study. Therefore, no actual patient data is released and results may be different when performing the same analyses on the actual SaSH dataset. 
 
 This crash course is by no means comprehensive. There are many aspects of R programming that cannot be incorporated into the session due to time constraints. For a free, focused and practical online resource, please check out [R for health data science](https://argoshare.is.ed.ac.uk/healthyr_book/).
-# SaSH
+
